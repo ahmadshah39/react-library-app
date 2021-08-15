@@ -11,6 +11,10 @@ module.exports = {
         "brand-gray-light": "#F8F8F8",
         "brand-dark-brown": "#201610",
       },
+      minHeight: {
+        '0': '0',
+        '64': '16rem',
+       }
     },
   },
   variants: {

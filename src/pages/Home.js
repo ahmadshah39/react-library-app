@@ -14,8 +14,8 @@ function Home() {
     leave: { opacity: 0, height: 0 },
   });
   return (
-    <div className="w-full h-full bg-brand-gray">
-      <div className="bg-brand-pink h-2/6 w-full ">
+    <div className="w-full h-full bg-brand-gray ">
+      <div className="bg-brand-pink h-2/6 w-full min-h-64">
         <div className="w-full h-1/2 flex justify-center items-center">
           <h1 className="text-center text-3xl font-bold  text-brand-gray-light">
             <i className="fas fa-book-open mr-5 text-brand-gray-light"></i> MY
