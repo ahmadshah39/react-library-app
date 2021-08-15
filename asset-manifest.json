@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-library-app/static/css/main.d472205e.chunk.css",
-    "main.js": "/react-library-app/static/js/main.553017ee.chunk.js",
-    "main.js.map": "/react-library-app/static/js/main.553017ee.chunk.js.map",
+    "main.css": "/react-library-app/static/css/main.cfef6a4d.chunk.css",
+    "main.js": "/react-library-app/static/js/main.0faca25b.chunk.js",
+    "main.js.map": "/react-library-app/static/js/main.0faca25b.chunk.js.map",
     "runtime-main.js": "/react-library-app/static/js/runtime-main.9b6012af.js",
     "runtime-main.js.map": "/react-library-app/static/js/runtime-main.9b6012af.js.map",
     "static/js/2.4f2db261.chunk.js": "/react-library-app/static/js/2.4f2db261.chunk.js",
     "static/js/2.4f2db261.chunk.js.map": "/react-library-app/static/js/2.4f2db261.chunk.js.map",
     "index.html": "/react-library-app/index.html",
-    "static/css/main.d472205e.chunk.css.map": "/react-library-app/static/css/main.d472205e.chunk.css.map",
+    "static/css/main.cfef6a4d.chunk.css.map": "/react-library-app/static/css/main.cfef6a4d.chunk.css.map",
     "static/js/2.4f2db261.chunk.js.LICENSE.txt": "/react-library-app/static/js/2.4f2db261.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9b6012af.js",
     "static/js/2.4f2db261.chunk.js",
-    "static/css/main.d472205e.chunk.css",
-    "static/js/main.553017ee.chunk.js"
+    "static/css/main.cfef6a4d.chunk.css",
+    "static/js/main.0faca25b.chunk.js"
   ]
 }
