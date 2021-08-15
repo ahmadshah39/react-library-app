@@ -22,7 +22,7 @@ function DataTable() {
           </tr>
         </thead>
         <tbody>
-          {books !== null ? (
+          {books !== null && books.length !== 0 ? (
             filtered !== null ? (
               <TableRows books={filtered} />
             ) : (
