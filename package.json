@@ -2,7 +2,7 @@
   "name": "react-library-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ahmadshah39.github.io/react-library-app"
+  "homepage": "https://ahmadshah39.github.io/react-library-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
